@@ -1,0 +1,94 @@
+ python3.4: TensorFlow-1.0.0   tensorboard-0.1.8   tflearn-0.3.2
+ python2.7: TensorFlow-0.8.0   
+ 2.7.14(~/anaconda2/bin/python) :
+            tensorflow-1.3.0   tensorboard-0.1.5
+ 2.7.14(~/anaconda2/envs/New1/bin/python) :   
+            tensorflow-1.0.0    
+ 2.7.14(~/anaconda2/envs/tflearn/bin/python) :
+            tensorflow-1.3.0   tensorboard-0.1.5   tflearn-0.3.2
+
+1,Speech Process: 录音、播放
+  Speech-Re-1 :百度语音识别API的使用样例（python2）
+  Speech-Re-2 :Python之PyAudio使用
+  Speech-Re-3 :PyAudio是一个功能强大的处理音频库,可以录音
+  Speech-Re-4 :Pyaudio,Wave,播放声音
+  Speech-Re-5 :播放声音 --（可用）
+  Speech-Re-6 :struct模块的pack、unpack, calcsize示例. 读取WAV音频文件 画频谱
+  Speech-Re-10:英文数字语音识别P187
+  Spe-Pyaudio :播放声音, 录音 ,回放
+  Spe-Pyplot  :画图
+  TensorBoard_1:可视化工具
+
+2,Mnist-1: mnist识别准备工作: 读取Mnist, 各种函数
+  Mnist-2: 读取mnist图片的方法
+  Mnist-3: BP算法,多层感知机,(可用,有点慢)
+  Mnist-4: tensorflow自带了MNIST数据集,下载数据集, (运行不出)
+  Mnist-5: 使用sklearn的svm分类,加载数据集Mnist, (运行不出)
+  Mnist-6: RNN-LSTM实现手写字识别,(可用)
+  Mnist-7: Mnist-6的分步进行
+  Mnist-8: 各种函数解析,如random(),array,range(),seed(),abs()等
+  Mnist-9: SVM对sklearn自带手写数字数据集进行分类,(可用)
+  Mnist-10: RNN调用TensorFlow实现手写字识别
+  Mnist-11(用): RNN调用TensorFlow实现手写字识别, (python2.7,tensorflow-V0.80), (可用)
+  Mnist-11_A(用): Mnist-11 增加功能
+  Mnist-12: RNN调用TensorFlow实现手写字识别, (python3.4,tensorflow-V1.30), (可用)
+  Mnist-13: RNN调用TensorFlow实现手写字识别
+  Mnist-14: RNN调用TensorFlow实现手写字识别
+  Mnist-15: Tensorflow #1 祖传例子 MNIST 手写识别,(可用)
+  Mnist-16: 使用转换mnist数据库(ubyte)保存为bmp图片
+  Mnist-17: Python如何读取指定文件夹下的所有图像
+  Mnist-18: 同上
+  Mnist-19: 打印单张图片
+  Mnist-20: 除了用 opencv，也可以用matplotlib和PIL这两个库操作图片。
+  Mnist-A(用):  同Mnist-11，上课讲解, 作业
+  Mnist-A1: mnist的数据预处理
+  mnist_A2: 灰度图像和二值图像转换
+  Mnist-B:  RNN, 类似于Mnist-11,(python2.7,tensorflow-V0.80), (可用)
+  Mnist-C:  matplotlib画图
+  Mnist-D:
+
+3,Speech Separation文件夹下：
+  Tensor-0: Tensorflow方法说明, 无
+  Tensor-1: TF生成数据的方法
+  TFLearn: Deep learning library featuring a higher-level API for TensorFlow.
+             (tfLearn：为TensorFlow提供更高级API的深度学习库)
+  TensorBoard1: TensorFlow自带可视化工具可视化工具
+  Save_restore :  神经网络模型的存储与加载
+
+4,注意：不要随意更改已经调试好的，看似无用的代码！
+  Spe_main      : 主函数
+  Spe-Separate_A: 读取wav，混合语音后生成wav文件，保存数据。(同Separate3)
+  Spe-Separate_B: 时间域波形、傅里叶变换、IFFT、输出数据存储.(精简Separate1)
+  Spe-Separate_B1:时间域波形、IFFT及其数据存储.(来自Separate_B)
+  Spe-Separate_C: RNN神经网络训练，改编自Mnist-11
+  Spe-Separate_D:
+
+  Spe-Separate1:  傅里叶变换
+  Spe-Separate2:  timeit,计时
+  Spe-Separate3:  语音和噪声合成、音频处理用到的操作(全:读取、写入wav-单或双声道、播放、加窗、分帧、语谱图)
+  Spe-Separate4:  tf.dynamic_rnn介绍,来自网上。
+  Spe-Separate5:  tf.dynamic_rnn,用的李嘉璇书中的例子。
+  Spe-Separate6:  Spe-Separate_C改编dynamic_rnn得到。可用了,2018.1.11调试好
+  Spe-Separate7:  使用xlrd读excel表--使用xlrd;将数据保存为xls格式--使用xlwt;
+  Spe-Separate8:  txt2xls,文本转excel格式(可用)
+  Spe-Separate9:  遍历文件夹下所有文件,按字母顺序或者按时间顺序
+  Spe-Separate10: 遍历文件夹下所有文件,并逐个读取（可用于x,y的输入）
+  Spe-Separate11: Separate6改进版,保留
+  Spe-Separate12: tf.dynamic_rnn的使用,sequence_length（可用）
+  Spe-Separate13:
+  Spe-Separate14:
+  Spe-Separate15:
+  Spe-Separate16:
+
+  Spe-Separate20: 莫烦python：RNN LSTM (回归例子) --可用,python3.4:TF-1.0
+  Spe-Separate21: python：类和继承
+  Spe-Separate22: 莫烦python:Saver 保存读取
+  Spe-Separate23: 莫烦python:LSTM 循环神经网络 (Mnist分类例子)
+
+  Spe-remark   :  备注,说明
+  one.py和two.py： two.py调用one.py的函数
+  shiyan_1、shiyan_2、shiyan_3: shiyan_1调用当前目录下的shiyan_2和其他目录下的shiyan_3
+
+
+
+

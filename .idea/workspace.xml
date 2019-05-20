@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../MNIST/Mnist-6.py" description="&#10;" line="0" />
+    <bookmark url="file://$PROJECT_DIR$/Speech-Re-6.py" line="41" mnemonic="5" />
+    <bookmark url="file://$PROJECT_DIR$/../MNIST/Mnist-8.py" line="244" mnemonic="9" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="387303fa-cc63-4d19-aae2-2c49edf002c5" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Neural_network$Tensor__1.coverage" NAME="Tensor--1 Coverage Results" MODIFIED="1512205731556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MNIST" />
+    <SUITE FILE_PATH="coverage/Neural_network$Spe_Sepatate1.coverage" NAME="Spe-Sepatate1 Coverage Results" MODIFIED="1514108228036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Neural_network$RNN_Lstm.coverage" NAME="RNN-Lstm Coverage Results" MODIFIED="1511315984044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../BaiduImageSpider" />
+    <SUITE FILE_PATH="coverage/Neural_network$Mnist_18.coverage" NAME="Mnist-18 Coverage Results" MODIFIED="1512023970713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/Neural_network$Mnist_9.coverage" NAME="Mnist-9 Coverage Results" MODIFIED="1511768513903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MNIST" />
+    <SUITE FILE_PATH="coverage/Neural_network$Mnist_A1.coverage" NAME="Mnist-A1 Coverage Results" MODIFIED="1512324354253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MNIST" />
+    <SUITE FILE_PATH="coverage/Neural_network$Spe_Pyplot.coverage" NAME="Spe-Pyplot Coverage Results" MODIFIED="1509634194053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Neural_network$Mnist_7.coverage" NAME="Mnist-7 Coverage Results" MODIFIED="1511700454587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MNIST" />
+    <SUITE FILE_PATH="coverage/Neural_network$Mnist_1.coverage" NAME="Mnist-1 Coverage Results" MODIFIED="1511169269776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/Neural_network$Mnist_4.coverage" NAME="Mnist-4 Coverage Results" MODIFIED="1511704054519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MNIST" />
+    <SUITE FILE_PATH="coverage/Neural_network$Speech_Re_10.coverage" NAME="Speech-Re-10 Coverage Results" MODIFIED="1514035165102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Neural_network$Speech_Re_3.coverage" NAME="Speech-Re-3 Coverage Results" MODIFIED="1509458820632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Neural_network$Speech_Re_6.coverage" NAME="Speech-Re-6 Coverage Results" MODIFIED="1511688280669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Neural_network$Mnist_15.coverage" NAME="Mnist-15 Coverage Results" MODIFIED="1511849339242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MNIST" />
+    <SUITE FILE_PATH="coverage/Neural_network$Mnist_12.coverage" NAME="Mnist-12 Coverage Results" MODIFIED="1511847613674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MNIST" />
+    <SUITE FILE_PATH="coverage/Neural_network$Mnist_11__1_.coverage" NAME="Mnist-11 (1) Coverage Results" MODIFIED="1512178373407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Mnist-program" />
+    <SUITE FILE_PATH="coverage/Neural_network$netword1.coverage" NAME="netword1 Coverage Results" MODIFIED="1512298501957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Neural_network$TensorBoard_1.coverage" NAME="TensorBoard_1 Coverage Results" MODIFIED="1513086999651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Neural_network$Mnist_16.coverage" NAME="Mnist-16 Coverage Results" MODIFIED="1512022206895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MNIST" />
+    <SUITE FILE_PATH="coverage/Neural_network$Mnist_10.coverage" NAME="Mnist-10 Coverage Results" MODIFIED="1511838816137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MNIST" />
+    <SUITE FILE_PATH="coverage/Neural_network$Mnist_B.coverage" NAME="Mnist-B Coverage Results" MODIFIED="1512309542828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MNIST" />
+    <SUITE FILE_PATH="coverage/Neural_network$mnist_softmax.coverage" NAME="mnist_softmax Coverage Results" MODIFIED="1511171818599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MNIST/Mnist-cnn" />
+    <SUITE FILE_PATH="coverage/Neural_network$Speech_Re5.coverage" NAME="Speech-Re5 Coverage Results" MODIFIED="1511604400785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Neural_network$Mnist_11.coverage" NAME="Mnist-11 Coverage Results" MODIFIED="1512353565129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MNIST" />
+    <SUITE FILE_PATH="coverage/Neural_network$Speech_Re_4.coverage" NAME="Speech-Re-4 Coverage Results" MODIFIED="1509526682080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Neural_network$Mnist_3.coverage" NAME="Mnist-3 Coverage Results" MODIFIED="1511771337032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MNIST" />
+    <SUITE FILE_PATH="coverage/Neural_network$Spe_pll.coverage" NAME="Spe-pll Coverage Results" MODIFIED="1509540988817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Neural_network$Speech_Re.coverage" NAME="Speech-Re Coverage Results" MODIFIED="1509109777538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Neural_network$Mnist_C.coverage" NAME="Mnist-C Coverage Results" MODIFIED="1512305263721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MNIST" />
+    <SUITE FILE_PATH="coverage/Neural_network$Mnist_8.coverage" NAME="Mnist-8 Coverage Results" MODIFIED="1512359271730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MNIST" />
+    <SUITE FILE_PATH="coverage/Neural_network$Spe_Separate2.coverage" NAME="Spe-Separate2 Coverage Results" MODIFIED="1514107840613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Neural_network$Mnist_8j.coverage" NAME="Mnist-8j Coverage Results" MODIFIED="1511597497060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MNIST" />
+    <SUITE FILE_PATH="coverage/Neural_network$Mnist_A.coverage" NAME="Mnist_A Coverage Results" MODIFIED="1512389984816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MNIST" />
+    <SUITE FILE_PATH="coverage/Neural_network$Speech_Re_2.coverage" NAME="Speech-Re-2 Coverage Results" MODIFIED="1509107577821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Neural_network$Mnist_5.coverage" NAME="Mnist-5 Coverage Results" MODIFIED="1511761249071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MNIST" />
+    <SUITE FILE_PATH="coverage/Neural_network$mnist.coverage" NAME="mnist Coverage Results" MODIFIED="1511171569669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MNIST/Mnist-cnn" />
+    <SUITE FILE_PATH="coverage/Neural_network$Spe_Pyaudio.coverage" NAME="Spe-Pyaudio Coverage Results" MODIFIED="1511604496290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Neural_network$Speech_Re_5.coverage" NAME="Speech-Re-5 Coverage Results" MODIFIED="1511690557411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Neural_network$Mnist_2.coverage" NAME="Mnist-2 Coverage Results" MODIFIED="1511854210124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MNIST" />
+    <SUITE FILE_PATH="coverage/Neural_network$Mnist_17.coverage" NAME="Mnist-17 Coverage Results" MODIFIED="1512024709620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/Neural_network$multi_rnn.coverage" NAME="multi_rnn Coverage Results" MODIFIED="1511317574026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MNIST/Multi-RNN-LSTM-with-MNIST-TF-master" />
+    <SUITE FILE_PATH="coverage/Neural_network$_init_.coverage" NAME="_init_ Coverage Results" MODIFIED="1511349393936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MNIST" />
+    <SUITE FILE_PATH="coverage/Neural_network$cnn_mnist.coverage" NAME="cnn_mnist Coverage Results" MODIFIED="1511266420017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MNIST/Mnist-cnn" />
+    <SUITE FILE_PATH="coverage/Neural_network$index.coverage" NAME="index Coverage Results" MODIFIED="1511267652313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../BaiduImageSpider" />
+    <SUITE FILE_PATH="coverage/Neural_network$Lstm.coverage" NAME="Lstm Coverage Results" MODIFIED="1511701674430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MNIST" />
+    <SUITE FILE_PATH="coverage/Neural_network$Mnist_13.coverage" NAME="Mnist-13 Coverage Results" MODIFIED="1511837183780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MNIST" />
+    <SUITE FILE_PATH="coverage/Neural_network$Save_Restore.coverage" NAME="Save_Restore Coverage Results" MODIFIED="1513070523939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Neural_network$Speech_Re_1.coverage" NAME="Speech-Re-1 Coverage Results" MODIFIED="1509087708684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Neural_network$Mnist_6.coverage" NAME="Mnist-6 Coverage Results" MODIFIED="1511770319766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MNIST" />
+    <SUITE FILE_PATH="coverage/Neural_network$Mnist_14.coverage" NAME="Mnist-14 Coverage Results" MODIFIED="1511836973626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MNIST" />
+    <SUITE FILE_PATH="coverage/Neural_network$Rnn_Lstm2.coverage" NAME="Rnn-Lstm2 Coverage Results" MODIFIED="1511316596554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../BaiduImageSpider" />
+    <SUITE FILE_PATH="coverage/Neural_network$10_save_restore_net.coverage" NAME="10_save_restore_net Coverage Results" MODIFIED="1513070505968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Neural_network$Mnist_19.coverage" NAME="Mnist-19 Coverage Results" MODIFIED="1512025782540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/Neural_network$network.coverage" NAME="network Coverage Results" MODIFIED="1508937585682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Neural network" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Illustration" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Illustration">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
+              <caret line="54" column="16" lean-forward="true" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mnist_A.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../MNIST/Mnist_A.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+              <folding>
+                <element signature="e#14#72#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TensorBoard_1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TensorBoard_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding>
+                <element signature="e#113#136#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Speech-Re-10.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Speech-Re-10.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <element signature="e#76#140#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Spe-remark.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Spe-remark.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>im</find>
+      <find>dropout</find>
+      <find>random_normal</find>
+      <find>relu</find>
+      <find>normal</find>
+      <find>random</find>
+      <find>run</find>
+      <find>run()</find>
+      <find>_index_in_epoch</find>
+      <find>batch_size</find>
+      <find>BasicLSTMCell</find>
+      <find>cast()</find>
+      <find>n_input</find>
+      <find>initialize_all_variables</find>
+      <find>argmax</find>
+      <find>shape</find>
+      <find>arg_max</find>
+      <find>self</find>
+      <find>split</find>
+      <find>batch_x</find>
+      <find>batch_xs</find>
+      <find>maltmul</find>
+      <find>matmul</find>
+      <find>spl</find>
+      <find>_weights</find>
+      <find>reduce_mean</find>
+      <find>cast</find>
+      <find>reshape</find>
+      <find>speech_data</find>
+      <find>seaborn</find>
+    </findStrings>
+  </component>
+  <component name="GotoClassSymbolConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="Angular2HTML" />
+      <filtered-out-file-type name="AngularJS" />
+      <filtered-out-file-type name="Apple JS" />
+      <filtered-out-file-type name="BuildoutCfg" />
+      <filtered-out-file-type name="CSS" />
+      <filtered-out-file-type name="Chameleon" />
+      <filtered-out-file-type name="CoffeeScript" />
+      <filtered-out-file-type name="CoffeeScriptLiterate" />
+      <filtered-out-file-type name="CommandLine" />
+      <filtered-out-file-type name="Cython" />
+      <filtered-out-file-type name="DB2" />
+      <filtered-out-file-type name="DTD" />
+      <filtered-out-file-type name="Derby" />
+      <filtered-out-file-type name="DjangoTemplate" />
+      <filtered-out-file-type name="Dockerfile" />
+      <filtered-out-file-type name="ECMA Script Level 4" />
+      <filtered-out-file-type name="ECMAScript 6" />
+      <filtered-out-file-type name="Flow JS" />
+      <filtered-out-file-type name="GQL" />
+      <filtered-out-file-type name="GWT JavaScript" />
+      <filtered-out-file-type name="GenericSQL" />
+      <filtered-out-file-type name="Gherkin" />
+      <filtered-out-file-type name="H2" />
+      <filtered-out-file-type name="HSQLDB" />
+      <filtered-out-file-type name="HTML" />
+      <filtered-out-file-type name="Haml" />
+      <filtered-out-file-type name="Ini" />
+      <filtered-out-file-type name="JQL" />
+      <filtered-out-file-type name="JQuery-CSS" />
+      <filtered-out-file-type name="JSON" />
+      <filtered-out-file-type name="JSRegexp" />
+      <filtered-out-file-type name="JSX Harmony" />
+      <filtered-out-file-type name="JavaScript" />
+      <filtered-out-file-type name="JavaScript 1.5" />
+      <filtered-out-file-type name="JavaScript 1.6" />
+      <filtered-out-file-type name="JavaScript 1.7" />
+      <filtered-out-file-type name="JavaScript 1.8" />
+      <filtered-out-file-type name="Jinja2" />
+      <filtered-out-file-type name="LESS" />
+      <filtered-out-file-type name="Locale" />
+      <filtered-out-file-type name="Mako" />
+      <filtered-out-file-type name="MySQL" />
+      <filtered-out-file-type name="Nashorn JS" />
+      <filtered-out-file-type name="Oracle" />
+      <filtered-out-file-type name="OracleSqlPlus" />
+      <filtered-out-file-type name="PostgreSQL" />
+      <filtered-out-file-type name="PostgresPLSQL" />
+      <filtered-out-file-type name="Puppet" />
+      <filtered-out-file-type name="Python" />
+      <filtered-out-file-type name="RELAX-NG" />
+      <filtered-out-file-type name="ReST" />
+      <filtered-out-file-type name="Redshift" />
+      <filtered-out-file-type name="RegExp" />
+      <filtered-out-file-type name="SASS" />
+      <filtered-out-file-type name="SCSS" />
+      <filtered-out-file-type name="SQL" />
+      <filtered-out-file-type name="SQL92" />
+      <filtered-out-file-type name="SQLite" />
+      <filtered-out-file-type name="Stylus" />
+      <filtered-out-file-type name="Sybase" />
+      <filtered-out-file-type name="TEXT" />
+      <filtered-out-file-type name="TSQL" />
+      <filtered-out-file-type name="TypeScript" />
+      <filtered-out-file-type name="TypeScript JSX" />
+      <filtered-out-file-type name="Web2Py" />
+      <filtered-out-file-type name="XHTML" />
+      <filtered-out-file-type name="XML" />
+      <filtered-out-file-type name="YouTrack" />
+      <filtered-out-file-type name="textmate" />
+      <filtered-out-file-type name="yaml" />
+    </file-type-list>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Spe-pll.py" />
+        <option value="$PROJECT_DIR$/Spe-Pyplot.py" />
+        <option value="$PROJECT_DIR$/../Mnist-1.py" />
+        <option value="$PROJECT_DIR$/../MNIST/Mnist-cnn/README" />
+        <option value="$PROJECT_DIR$/../MNIST/Mnist-cnn/cnn_mnist.py" />
+        <option value="$PROJECT_DIR$/../BaiduImageSpider/index.py" />
+        <option value="$PROJECT_DIR$/../BaiduImageSpider/Rnn-Lstm2.py" />
+        <option value="$PROJECT_DIR$/../BaiduImageSpider/RNN-Lstm.py" />
+        <option value="$PROJECT_DIR$/../BaiduImageSpider/Lstm.py" />
+        <option value="$PROJECT_DIR$/../MNIST/Lstm.py" />
+        <option value="$PROJECT_DIR$/../MNIST/Rnn-Lstm2.py" />
+        <option value="$PROJECT_DIR$/../MNIST/_init_.py" />
+        <option value="$PROJECT_DIR$/../MNIST/Mnist-4.py" />
+        <option value="$PROJECT_DIR$/../MNIST/Mnist-3.py" />
+        <option value="$PROJECT_DIR$/../MNIST/Mnist-8j.py" />
+        <option value="$PROJECT_DIR$/../MNIST/Mnist-7.py" />
+        <option value="$PROJECT_DIR$/Speech-Re5.py" />
+        <option value="$PROJECT_DIR$/Spe-Pyaudio.py" />
+        <option value="$PROJECT_DIR$/Speech-Re-5.py" />
+        <option value="$PROJECT_DIR$/../MNIST/Mnist-9.py" />
+        <option value="$PROJECT_DIR$/../MNIST/Mnist-5.py" />
+        <option value="$PROJECT_DIR$/Speech-Re-6.py" />
+        <option value="$PROJECT_DIR$/../MNIST/Mnist-6.py" />
+        <option value="$PROJECT_DIR$/../MNIST/Mnist-14.py" />
+        <option value="$PROJECT_DIR$/../MNIST/Mnist-13.py" />
+        <option value="$PROJECT_DIR$/../MNIST/Mnist-10.py" />
+        <option value="$PROJECT_DIR$/../MNIST/Mnist-12.py" />
+        <option value="$PROJECT_DIR$/../MNIST/Mnist-15.py" />
+        <option value="$PROJECT_DIR$/../MNIST/Mnist-2.py" />
+        <option value="$PROJECT_DIR$/../MNIST/Mnist-16.py" />
+        <option value="$PROJECT_DIR$/../Mnist-20.py" />
+        <option value="$PROJECT_DIR$/../Mnist-18.py" />
+        <option value="$PROJECT_DIR$/../Mnist-17.py" />
+        <option value="$PROJECT_DIR$/../Mnist-19.py" />
+        <option value="$PROJECT_DIR$/../Mnist-program/Mnist-11.py" />
+        <option value="$PROJECT_DIR$/../MNIST/Tensor-0.py" />
+        <option value="$PROJECT_DIR$/../MNIST/Tensor--1.py" />
+        <option value="$PROJECT_DIR$/../MNIST/Mnist-C.py" />
+        <option value="$PROJECT_DIR$/../MNIST/Mnist-A1.py" />
+        <option value="$PROJECT_DIR$/../MNIST/Mnist-D.py" />
+        <option value="$PROJECT_DIR$/../MNIST/Mnist-B.py" />
+        <option value="$PROJECT_DIR$/../MNIST/Mnist-8.py" />
+        <option value="$PROJECT_DIR$/../MNIST/Mnist-11.py" />
+        <option value="$PROJECT_DIR$/../MNIST/Mnist_A.py" />
+        <option value="$PROJECT_DIR$/10_save_restore_net.py" />
+        <option value="$PROJECT_DIR$/TensorBoard_1.py" />
+        <option value="$PROJECT_DIR$/../Spe-remark.py" />
+        <option value="$PROJECT_DIR$/Spe-Separate2.py" />
+        <option value="$PROJECT_DIR$/Spe-Sepatate1.py" />
+        <option value="$PROJECT_DIR$/Speech-Re-10.py" />
+        <option value="$PROJECT_DIR$/../Illustration" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="448" />
+    <option name="y" value="33" />
+    <option name="width" value="637" />
+    <option name="height" value="498" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Speech Separation" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Spe-Sepatate1">
+    <configuration name="Save_Restore" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Neural network" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Save_Restore.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Spe-Separate2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Neural network" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spe-Separate2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Spe-Sepatate1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Neural network" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spe-Sepatate1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Speech-Re-10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Neural network" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Speech-Re-10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="TensorBoard_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Neural network" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TensorBoard_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="netword1" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Neural network" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/netword1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Python.netword1" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Save_Restore" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Speech-Re-10" />
+      <item index="3" class="java.lang.String" itemvalue="Python.TensorBoard_1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Spe-Sepatate1" />
+      <item index="5" class="java.lang.String" itemvalue="Python.Spe-Separate2" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.Spe-Sepatate1" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Spe-Separate2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Speech-Re-10" />
+        <item index="3" class="java.lang.String" itemvalue="Python.TensorBoard_1" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Save_Restore" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="387303fa-cc63-4d19-aae2-2c49edf002c5" name="Default" comment="" />
+      <created>1508832755293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508832755293</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="47" y="24" width="1315" height="644" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3148295" sideWeight="0.49293286" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3271719" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3469751" sideWeight="0.50570345" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31053606" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3813084" sideWeight="0.49429658" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2807296" sideWeight="0.46786633" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33831775" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15226011" sideWeight="0.5321337" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47102803" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291039" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../MNIST/Mnist-5.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../MNIST/Mnist-5.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="47" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="img" />
+        <watch expression="matrix" />
+        <watch expression="data" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../MNIST/Mnist-15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/dist-packages/pandas/computation/ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1008">
+          <caret line="15" column="53" lean-forward="true" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/python/framework/ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="3476" column="0" lean-forward="false" selection-start-line="3476" selection-start-column="0" selection-end-line="3477" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/contrib/framework/python/ops/ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1232">
+          <caret line="47" column="74" lean-forward="false" selection-start-line="47" selection-start-column="74" selection-end-line="47" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/python/ops/gen_nn_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="781" column="26" lean-forward="false" selection-start-line="781" selection-start-column="26" selection-end-line="781" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/numpy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/dist-packages/scipy/sparse/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="97" column="8" lean-forward="false" selection-start-line="97" selection-start-column="8" selection-end-line="97" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/python/ops/rnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2744">
+          <caret line="112" column="9" lean-forward="false" selection-start-line="112" selection-start-column="9" selection-end-line="112" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/python/training/training.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/python/training/adam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1514">
+          <caret line="38" column="6" lean-forward="false" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/logging/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="804" column="20" lean-forward="true" selection-start-line="804" selection-start-column="20" selection-end-line="804" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1247972723/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="3915" column="8" lean-forward="false" selection-start-line="3915" selection-start-column="8" selection-end-line="3915" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/python/client/session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="343" column="12" lean-forward="false" selection-start-line="343" selection-start-column="12" selection-end-line="343" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/python/ops/rnn_cell.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="188" column="0" lean-forward="false" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/python/ops/op_def_library.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="303" column="0" lean-forward="true" selection-start-line="303" selection-start-column="0" selection-end-line="303" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/python/ops/control_flow_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1193">
+          <caret line="1706" column="0" lean-forward="true" selection-start-line="1706" selection-start-column="0" selection-end-line="1706" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/python/ops/gen_control_flow_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-779">
+          <caret line="150" column="0" lean-forward="true" selection-start-line="150" selection-start-column="0" selection-end-line="150" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/python/ops/variables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="812" column="10" lean-forward="true" selection-start-line="812" selection-start-column="10" selection-end-line="812" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/python/ops/nn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="300" column="35" lean-forward="false" selection-start-line="300" selection-start-column="35" selection-end-line="300" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="138" column="28" lean-forward="false" selection-start-line="138" selection-start-column="28" selection-end-line="138" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/python/ops/math_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="981" column="0" lean-forward="true" selection-start-line="981" selection-start-column="0" selection-end-line="981" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/python/ops/gen_math_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="105" column="0" lean-forward="true" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MNIST/Tensor--1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MNIST/Tensor-0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1247972723/numpy/core/multiarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="117" column="4" lean-forward="false" selection-start-line="117" selection-start-column="4" selection-end-line="117" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MNIST/Mnist-B.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MNIST/Mnist-C.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MNIST/Mnist-11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-432">
+          <caret line="44" column="46" lean-forward="true" selection-start-line="44" selection-start-column="46" selection-end-line="44" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MNIST/Mnist-A1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/python/ops/array_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="442" column="26" lean-forward="true" selection-start-line="442" selection-start-column="26" selection-end-line="442" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MNIST/Mnist-D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="86" column="0" lean-forward="true" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MNIST/Mnist-8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="102" column="38" lean-forward="true" selection-start-line="102" selection-start-column="38" selection-end-line="102" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/python/training/saver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="986" column="12" lean-forward="true" selection-start-line="986" selection-start-column="12" selection-end-line="986" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_save_restore_net.py" />
+    <entry file="file://$PROJECT_DIR$/Save_Restore.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/dist-packages/lockfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="50" column="5" lean-forward="false" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/__future__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/tensorboard/tensorboard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="71" column="22" lean-forward="true" selection-start-line="71" selection-start-column="22" selection-end-line="71" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MNIST/Mnist_A.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="e#14#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="8" column="69" lean-forward="true" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Mnist-program/Mnist-11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Speech Separation/FFT.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda2/envs/tflearn/lib/python2.7/timeit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="158" column="34" lean-forward="true" selection-start-line="158" selection-start-column="34" selection-end-line="158" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda2/envs/tflearn/lib/python2.7/ensurepip/__main__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorBoard_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#113#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Spe-remark.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Illustration">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="54" column="16" lean-forward="true" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spe-Separate2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda2/envs/tflearn/lib/python2.7/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spe-Sepatate1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="50" column="18" lean-forward="true" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Speech-Re-10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#76#140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
